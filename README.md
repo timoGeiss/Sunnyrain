@@ -1,4 +1,4 @@
-# Weathery
+# Sunnyrain
 
 This is an App for showing weather data from around the world, feel free to download and try it.
 
